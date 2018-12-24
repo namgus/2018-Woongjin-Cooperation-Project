@@ -1,13 +1,12 @@
 # 2018-Woongjin-Cooperation-Project
 
-## 웅진플레이도시 워터파크 데이터 분석
+
+## 고객의 동선 분석
+![image](https://user-images.githubusercontent.com/28288186/50400979-af774f00-07ce-11e9-84ee-ec45f6aadd72.png)
+
 
 ---
-### 고객의 동선 분석
-
-
----
-### 연령대 예측
+## 연령대 예측
 
 - **User prediction**을 위한 통계적 방법으로 K-means clustering을 활용해 10대 미만, 10대, 3.40대, 50대 이상 총 4개의 군집으로 clustering을 진행함
 -> 57명 및 2000명의 clustering결과에서 cluster0가 10대 미만, cluster1이 3.40대, cluster2가 10대, cluster3가 50대 이상인 것으로 추측
